@@ -1,0 +1,5 @@
+Nomenclatura archivo entregable: 64986_digitalers_proyecto-integrador-etapa-uno_Cristian-Recabarren.zip
+1. Repositorio: https://github.com/bit-rec98/64986_digitalers_proyecto-integrador-etapa-uno_Cristian-Recabarren
+2. Nombre: Cristian Emanuel Recabarren
+3. Proyecto desplegado en Netlify: https://lthstore.netlify.app/
+4. Link a diseño en Figma:
